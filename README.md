@@ -1,0 +1,1 @@
+This is part 0 of the fullstack open curriculum
